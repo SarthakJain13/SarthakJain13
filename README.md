@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SarthakJain13
 - 👀 I’m interested in upcoming AI innovations and back-end development
-- 🌱 I’m currently learning Python and C programming languages. I am enrolled as a 1st year computer science student at UNSW ~ Sydney
+- 🌱 I’m currently learning Python and C programming languages. I am enrolled as a 3rd year computer science student at UNSW ~ Sydney
 - 📫 How to reach me:
         * Email ~ 
             Primary : sarthakjain130401@outlook.com
