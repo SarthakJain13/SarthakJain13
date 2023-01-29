@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SarthakJain13
+- 👋 Hi, I’m Sarthak Jain
 - 👀 I’m interested in upcoming AI innovations and back-end development
 - 🌱 I’m currently learning Python and C programming languages. I am enrolled as a 3rd year computer science student at UNSW ~ Sydney
 - 📫 How to reach me:
